@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (input images)
+dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
